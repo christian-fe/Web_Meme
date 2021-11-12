@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 namespace WebMeme
 {
     public class Startup
-    {
+    { 
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
